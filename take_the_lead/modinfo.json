@@ -1,0 +1,17 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "gut_contents_compendium",
+    "name": "GUT's Contents Compendium",
+    "authors": [ "Getusedto" ],
+    "description": "A small CDDA mod that lets you take control of your NPC companion as long you can talk to them.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "id": [ "TALK_FRIEND", "TALK_GIVE_ITEM", "TALK_USE_ITEM", "TALK_RADIO", "TALK_FRIEND_Liam" ],
+    "type": "talk_topic",
+    "insert_before_standard_exits": true,
+    "responses": [ { "text": "You take the lead.", "effect": "take_control", "topic": "TALK_DONE" } ]
+  }
+]
