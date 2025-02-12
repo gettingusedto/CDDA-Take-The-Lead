@@ -1,8 +1,8 @@
 [
   {
     "type": "MOD_INFO",
-    "id": "gut_contents_compendium",
-    "name": "GUT's Contents Compendium",
+    "id": "take_the_lead",
+    "name": "Take the Lead",
     "authors": [ "Getusedto" ],
     "description": "A small CDDA mod that lets you take control of your NPC companion as long you can talk to them.",
     "category": "misc_additions",
