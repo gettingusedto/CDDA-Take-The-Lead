@@ -5,7 +5,7 @@
     "name": "GUT's Contents Compendium",
     "authors": [ "Getusedto" ],
     "description": "A small CDDA mod that lets you take control of your NPC companion as long you can talk to them.",
-    "category": "content",
+    "category": "misc_additions",
     "dependencies": [ "dda" ]
   },
   {
